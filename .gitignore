@@ -1,0 +1,22 @@
+# ide
+*.sublime-workspace
+*.sublime-project
+.ipynb_checkpoints/
+.vscode
+
+# build
+__pycache__
+*.pyc
+*.zip
+*.rdb
+*.egg-info
+
+# test
+.cache
+.coverage
+artifacts
+settings.json
+
+# docs
+.pytest_cache/
+build/
